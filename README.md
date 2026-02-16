@@ -65,7 +65,7 @@ Electronic check payment method shows higher churn compared to other payment met
 
 # 📂 Project Files
 
-Power BI Dashboard File ()
+Power BI Dashboard File (https://github.com/rashminaphade/FUTURE_DS_02/blob/main/FUTURE_DS_02.pbix)
 
 Dataset (https://github.com/rashminaphade/FUTURE_DS_02/blob/main/Task%20Data%20_2%20CSV.csv)
 
@@ -77,9 +77,7 @@ Dashboard Screenshot(https://github.com/rashminaphade/FUTURE_DS_02/blob/main/FUT
 This dashboard provides a clear understanding of churn patterns and helps businesses take strategic actions to improve customer retention and reduce churn.
 
 👩‍💻 Author
-
-[Your Name]
+[Name : Rashmi Naphade]
 Data Analyst Intern | Power BI Developer
 
-📍 LinkedIn: (Add your LinkedIn profile link here)
-📍 GitHub: (Optional)
+📍 LinkedIn: (https://www.linkedin.com/in/rashmi-naphade-b67727329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
