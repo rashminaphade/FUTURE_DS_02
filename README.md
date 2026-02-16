@@ -65,7 +65,7 @@ Electronic check payment method shows higher churn compared to other payment met
 
 # 📂 Project Files
 
-Power BI Dashboard File (.pbix)
+Power BI Dashboard File (https://github.com/rashminaphade/FUTURE_DS_02/blob/main/FUTURE_DS_02.PNG.png)
 
 Dataset (if included)
 
